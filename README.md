@@ -1,3 +1,4 @@
-# devourdevil.github.io
+#BLOGERCHOICE
 
-click his devourdevil.github.io
+
+print("blogerchoice.github.io")
