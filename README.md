@@ -1,4 +1,4 @@
 #BLOGERCHOICE
 
 
-print("blogerchoice.github.io")
+blogerchoice.github.io
