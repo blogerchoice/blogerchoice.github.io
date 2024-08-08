@@ -48,13 +48,16 @@ a:hover{
 h1{
   font-size: 50px;
   color: pink;
+  animation: my-animation 2s ease-in-out infinite;
   
 }
 
 
-@keyframes example {
-  0%   {background-color: red;}
-  25%  {background-color: yellow;}
-  50%  {background-color: blue;}
-  100% {background-color: green;}
+@keyframes my-animation {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
 }
